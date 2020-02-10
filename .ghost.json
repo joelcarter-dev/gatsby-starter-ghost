@@ -2,11 +2,11 @@
   "development": {
     "apiUrl": "https://ghost-portfolio-v1.herokuapp.com",
     "contentApiKey": "dc1690e49df995fb0530b54139",
-    "version": "v2"
+    // "version": "v2"
   },
   "production": {
     "apiUrl": "https://ghost-portfolio-v1.herokuapp.com",
     "contentApiKey": "dc1690e49df995fb0530b54139",
-    "version": "v2"
+    // "version": "v2"
   }
 }
